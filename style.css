@@ -25,7 +25,12 @@ h4 {
 }
 
 a {
-    color:white;
+    /*color:white;*/
+}
+
+div{
+    border: 20px;
+    border-color: #1D3C41;
 }
 
 /* --- Layout --- */
@@ -41,21 +46,22 @@ header {
     width: 1000px;
     margin: 50px auto;
     text-align: left;
+    border: groove 4px #588C94; /* solid/dotted/dashed/double/groove/ridge/outset */
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
-.skills {
-    width: 1000px;
-    margin: 50px auto;
-    text-align: left;
-}
-
+.skills,
 .experience, 
-.education {
+.education,
+.project  {
     width: 1000px;
     margin: 50px auto;
     text-align: left;
+    border: groove 4px #588C94; /* solid/dotted/dashed/double/groove/ridge/outset */
+    padding-left: 30px;
+    padding-right: 30px;
 }
-
 
 .info {
     background-color: #1D3C41;
