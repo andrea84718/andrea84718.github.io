@@ -36,6 +36,7 @@ div{
 
 /* --- Layout --- */
 header {
+    background: fixed;
     background-color: #588C94;
     color: white;
     text-align: center;
@@ -73,6 +74,7 @@ header {
 }
 
 .columns {
+    background: fixed;
     display: flex;
 }
 
@@ -83,6 +85,7 @@ header {
 
 
 footer {
+    background: fixed;
     background-color: #4a4a4a;
     color: blanchedalmond;
     text-align: center;
