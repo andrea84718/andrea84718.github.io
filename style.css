@@ -36,7 +36,7 @@ div{
 
 /* --- Layout --- */
 header {
-    background: fixed;
+    background: linear-gradient();
     background-color: #588C94;
     color: white;
     text-align: center;
