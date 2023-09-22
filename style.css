@@ -2,6 +2,7 @@
 body {
     margin: 0;
     font-size: 21px;
+   
 }
 
 /* --- Typography --- */
@@ -56,6 +57,7 @@ header {
 .skills,
 .experience, 
 .education,
+.certification,
 .project,
 .interest {
     width: 1000px;
